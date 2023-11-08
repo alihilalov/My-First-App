@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Apizza</string>
+    <string name="pizzaBaslik">Etli Peynirli</string>
+    <string name="sucukYazi">Sucuk</string>
+    <string name="peynirYazi">Peynir</string>
+    <string name="biberYAzi">Biber</string>
+    <string name="zeytunYAzi">Zeytun</string>
+    <string name="teslimatSure">20 dk</string>
+    <string name="teslimatBasliq">Teslimat</string>
+    <string name="pizzaAciklama">Et sever , pizzanla tanışmaya hazırlan !</string>
+    <string name="fiyatYazi">120 tl</string>
+    <string name="buttonYazi">SEPETE EKLE</string>
+
+</resources>
